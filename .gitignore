@@ -1,0 +1,5 @@
+node_modules
+git init
+git config user.name "someone"
+git config user.email "jc7442262@sina.com"
+git add *
